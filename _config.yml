@@ -1,8 +1,8 @@
-name: Photo gallery
+name: Cloud Gallery
 markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:title/
-url: https://iamnii.github.io/GridGallery/
+url: https://jongs985.github.io/
 author:
-    name: Adjetey Sowah
+    name: jongs
     twitter: #
